@@ -3,7 +3,9 @@
 - 원칙: 
 
 1. 주식시장을 이긴 전략들 (2017)
-    - https://book.naver.com/bookdb/book_detail.nhn?bid=11930771
+    - [Link to Google](https://www.google.com/){: target="_blank"}
+    - ['test'](http://www.example.com/){: target="_blank" }
+    - (https://book.naver.com/bookdb/book_detail.nhn?bid=11930771){: target="_blank"}
     - 퀀트, 다양한 전략, 데이터분석, 백테스팅결과
     - 미구입, 독서중
     
